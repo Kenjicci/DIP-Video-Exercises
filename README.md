@@ -1,1 +1,0 @@
-# DIP-Video-Exercises
