@@ -56,7 +56,6 @@ def apply_moving_blur(input_path, output_path_hard, output_path_blend, kernel_si
     print(f"Smooth-blend output saved to: {output_path_blend}")
 
 
-# --- Run with paths ---
 input_path = 'my_test_video.mp4'
 output_path_hard = 'KenCinco-FinalExer2/transformed_video_exer2_hardcut.mp4'
 output_path_blend = 'KenCinco-FinalExer2/transformed_video_exer2_blend.mp4'
